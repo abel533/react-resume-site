@@ -18,6 +18,10 @@ html, body {
   height: 100%;
 }
 
+.h2_block .icon {
+  fill: black !important;
+}
+
 @font-face {
   font-family: 'pingfang-sc';
   src: url('https://s3.qiufengh.com/muji/font/PingFang-Medium.ttf');
